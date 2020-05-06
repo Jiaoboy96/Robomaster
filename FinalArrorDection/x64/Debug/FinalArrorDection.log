@@ -1,0 +1,17 @@
+﻿  main.cpp
+a:\2019rm\final0\finalarrordection\finalarrordection\main.cpp(45): warning C4326: “main”的返回类型应为“int”而非“void”
+a:\2019rm\final0\finalarrordection\finalarrordection\main.cpp(101): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+a:\2019rm\final0\finalarrordection\finalarrordection\main.cpp(254): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  FinalArrorDection.vcxproj -> A:\2019RM\Final0\FinalArrorDection\x64\Debug\FinalArrorDection.exe

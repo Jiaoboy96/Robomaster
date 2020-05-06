@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- $$$!!!                 录像开启否             !!!$$$ -->
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- @@@Video_Write'Y'-89,'N'-78@@@ -->
+<ImgWriter>78</ImgWriter>
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- $$$!!!                 自瞄所有参数            !!!$$$ -->
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- @@@M l_Flag@@@ -->
+<MlFlag>89</MlFlag>
+<!-- @@@M l_FileHeaderNum@@@ -->
+<fileHeaderNum>11</fileHeaderNum>
+<!-- @@@Red_Blue_Flag,'r'-114,'b'-98@@@ -->
+<mainColor>98</mainColor>
+<!-- @@@Exposure_Time@@@ -->
+<ExposureValue>1</ExposureValue>
+<!-- @@@Red_Threshold@@@ -->
+<rMainColorThre>140</rMainColorThre>
+<rMainGrayThre>50</rMainGrayThre>
+<!-- @@@Blue_Threshold@@@ -->
+<bMainColorThre>112</bMainColorThre>
+<bMainGrayThre>50</bMainGrayThre>
+<!-- @@@Distance_Test@@@ -->
+<actualDist>2000</actualDist>
+<rFocalLenth>6.9</rFocalLenth>
+<bFocalLenth>7.5</bFocalLenth>
+<!-- @@@LED_Match -->
+<ledMinArea>60</ledMinArea>
+<ledMaxArea>2000</ledMaxArea>
+<ledMinAngle>45</ledMinAngle>
+<ledMaxAngle>135</ledMaxAngle>
+<ledWitdhHeightRatio>8.9000000000000001e-01</ledWitdhHeightRatio>
+<!-- @@@Arror_Match -->
+<arrorMinDiffX>10</arrorMinDiffX>
+<arrorMaxDiffX>350</arrorMaxDiffX>
+<arrorMaxDiffY>20</arrorMaxDiffY>
+<arrorMinAngle>45</arrorMinAngle>
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- $$$!!!                 能量机关参数            !!!$$$ -->
+<!-- $$$!!!*****************##########************!!!$$$ -->
+<!-- @@@大风车灰度阈值 -->
+<pinWheelGrayThre>200</pinWheelGrayThre>
+<!-- @@@大风车扇叶最小面积 -->
+<flabellumMinArea>1000</flabellumMinArea>
+<!-- @@@大风车中心点特征 -->
+<centerRadiusMin>100</centerRadiusMin>
+<centerRadiusMax>200</centerRadiusMax>
+<centerAreaMin>98</centerAreaMin>
+<centerLengthWidthRatioMin>9.0000000000000002e-01</centerLengthWidthRatioMin>
+<!-- @@@大风车预测补偿 -->
+<antiAngleDividend>6</antiAngleDividend>
+<obeyAngleDividend>3</obeyAngleDividend>
+</opencv_storage>
